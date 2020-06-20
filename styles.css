@@ -1,0 +1,54 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.bodyer{
+    background-color: #01a9b4;
+}
+
+
+h1 {
+  margin: 100% 25%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  font-family: 'Sriracha', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 25rem;
+  color: #fbfd8a;
+}
+
+h2{
+  font-size: 30rem;
+  color: #fbfd8a;
+  font-family: 'Metal Mania', cursive;
+  text-align: center;
+  padding: 50px ;
+}
+
+img {
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.btn {
+   margin :10% 35% 20% 35%;
+}
+h5 {
+  padding-top: 10px;
+  padding-bottom: 30px;
+  color: #87dfd6;
+font-size: 1rem;
+  text-align: center;
+  font-family: 'Metal Mania', cursive;;
+
+}
