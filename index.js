@@ -6,8 +6,8 @@ var randomNumber3= (Math.floor(Math.random()*4));
 var randomImage1 = "circle-cropped ("+ randomNumber1 +").png" ;
 var randomImage2 = "img_" + randomNumber2 + ".jpg" ;
 
-var randomImageSource1 = "images/" + randomImage1;
-var randomImageSource2 = "images/" + randomImage2;
+var randomImageSource1 =  randomImage1;
+var randomImageSource2 =  randomImage2;
 
 var image1 = document.querySelectorAll("img")[0];
 var image2 = document.querySelectorAll("img")[1];
